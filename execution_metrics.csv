@@ -1,0 +1,6 @@
+pid,arrival_time,predicted_bt,actual_bt,waiting_time,turnaround_time,allocated_core
+105,8,3,4,0,33,4
+102,2,5,6,0,72,2
+104,5,8,8,36,132,4
+101,0,12,15,0,154,1
+103,4,25,22,0,229,3

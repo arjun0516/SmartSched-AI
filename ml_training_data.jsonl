@@ -1,0 +1,2 @@
+{"ram_mb": 1020.0, "priority": 5.0, "io_ratio_pct": 20.0, "arrival_ms": 5.0, "actual_burst_ms": 750.0}
+{"ram_mb": 512.0, "priority": 2.0, "io_ratio_pct": 20.0, "arrival_ms": 0.0, "actual_burst_ms": 750.0}

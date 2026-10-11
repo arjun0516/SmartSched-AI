@@ -1,0 +1,28 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Compiled executables
+*.exe
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated machine learning models
+*.joblib
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
